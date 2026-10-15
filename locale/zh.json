@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Enter 快捷键自定义",
+    "description": "交换聊天输入框的 Enter 与 Ctrl/Cmd + Enter：Enter 换行、Ctrl + Enter 发送；可在「设置 → 通用」里逐键配置。"
+  }
+}

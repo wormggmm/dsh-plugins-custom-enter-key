@@ -1,0 +1,7 @@
+# dsh-plugins-custom-enter-key bundle patch: inserts the plugin row into the
+# composition. The Host half (index.js) is inert; the browser half
+# (exports["./client"]) carries both the composer key swap and its
+# Settings → General row.
+- insert:
+    - id: custom-enter-key
+      name: dsh-plugins-custom-enter-key

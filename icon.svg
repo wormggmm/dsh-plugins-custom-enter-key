@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Enter key">
+  <rect x="2" y="14" width="60" height="36" rx="10" ry="10" fill="#3b6fe0"/>
+  <path d="M20 26v8a4 4 0 0 0 4 4h20" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M38 31l7 7-7 7" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

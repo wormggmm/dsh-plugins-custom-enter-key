@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Custom Enter key",
+    "description": "Swap Enter and Ctrl/Cmd + Enter in the chat composer: Enter breaks the line, Ctrl + Enter sends — configurable per key in Settings → General."
+  }
+}
